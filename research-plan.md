@@ -1,23 +1,30 @@
 # NeuroBridge Research Methodology
-Objective:To build Indonesia's first peer tutoring dataset
-# Data Points Collected:
+
+## Phase 1: Data Collection (Nov-Dec 2024)
+**Objective:** Build Indonesia's first peer tutoring dataset at SMA [YOUR SCHOOL NAME]
+
+### Research Question
+"Can we use data-driven approaches to create more effective peer tutoring matches?"
+
+### Data Points Collected:
 - User role (tutor/tutee)
-- Subject expertise/needs
-- Learning/teaching styles  
+- Subject expertise/needs  
+- Learning/teaching styles
 - Academic level
-- Timestamp
+- Availability
+- Confidence level
 
-# Collection Method:
-- Web form deployment at SMA Sekolah Cinta Budaya / Chong Wen
-- Target: 50+ student entries
-- Ethical data collection with transparency
+### Success Metrics:
+- Collect 50+ student entries
+- Document data patterns
+- Identify most requested subjects
 
-# Phase 2: Pattern Analysis (Jan 2025)
-- Analyze matching success rates
-- Identify optimal tutor-tutee pairs
-- Document findings for AI training
+## Phase 2: Data Analysis (Jan-Feb 2025)
+- Learn Python and Pandas
+- Analyze collected data
+- Create visualizations
 
-# Phase 3: AI Implementation (Feb-Mar 2025)
-- Build recommendation engine
-- Deploy intelligent matching
-- Measure improvement over random pairing
+## Phase 3: Intelligent Systems (Mar-Apr 2025)  
+- Explore machine learning basics
+- Implement simple matching algorithm
+- Compare against random pairing
