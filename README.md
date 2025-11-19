@@ -1,2 +1,8 @@
-# EduBridge
-EduBridge started when I realized the coding I learned in class could solve a real problem. I pushed myself to learn backend development, transforming simple code into a full-stack platform that now helps students in my school connect and learn together.
+# Neurobridge
+NeuroBridge is a research project from data collection to implementing it into AI for peer tutoring optimization.
+*For this project, there are 3 phases:*
+1. Data Collection (HTML,CSS,JavaScript)
+2. Data Analysis (Python or Pandas)
+3. AI Implementation (Machine Learning)
+# Current Phase: Data Collection
+Drive:"Is it possible to use machine learning for creating effective peer tutoring matches?"
